@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Advanced React Patterns
 - 💬 Ask me about HTML, CSS, JavaScript, ES6, React, Angular JS
 - 📫 How to reach me: tweet@shirazz
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There's nothing permanent than a temporary hack. ~Kyle Simpson
